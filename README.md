@@ -1,4 +1,4 @@
-# AppwAnalytics
+# Pinklytics
 Private analytics with Appwrite
 
 Analytics tool for your websites, apps, etc.
